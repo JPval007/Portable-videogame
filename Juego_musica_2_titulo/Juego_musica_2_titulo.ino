@@ -2,10 +2,9 @@
 /* Universidad del Valle de Guatemala
  * Electrónica Digital II
  * Profesor: Kurt Kellner
- * Sección: 30
  * Autores:
- * Juan Pablo Valenzuela carnet: 18057
- * Katherine Caceros     carnet: 18307
+ * Juan Pablo Valenzuela 
+ * Katherine Caceros     
  * Descripción:
  * Este es el código que controla el juego Dios Maya de la Funación, el cual es una parodia del original PONG (1972)
  * Este juego introduce sonidos personalizados al juego original, canciones populares de otros juegos clásicos, 
