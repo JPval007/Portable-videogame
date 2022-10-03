@@ -1,5 +1,5 @@
 # Portable videogame
-Overview:
+Overview (transcribed to english):
 The project was worked on in pairs, each group built a videogame using
 the ILI9341 LCD screen.
 
